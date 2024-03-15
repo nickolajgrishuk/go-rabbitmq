@@ -1,8 +1,8 @@
 package rabbitmq
 
 import (
+	"github.com/nickolajgrishuk/go-rabbitmq/internal/connectionmanager"
 	amqp "github.com/rabbitmq/amqp091-go"
-	"github.com/wagslane/go-rabbitmq/internal/connectionmanager"
 	"log"
 )
 
