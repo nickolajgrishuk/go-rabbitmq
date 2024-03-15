@@ -25,7 +25,7 @@ The goal with `go-rabbitmq` is to provide *most* (but not all) of the nitty-grit
 Inside a Go module:
 
 ```bash
-go get github.com/wagslane/go-rabbitmq
+go get github.com/nickolajgrishuk/go-rabbitmq
 ```
 
 ## 🚀 Quick Start Consumer
